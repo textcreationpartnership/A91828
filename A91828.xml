@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Lamentation in tender bowels of love over thee, Oh England that thou mayst return to the Lord in humility and seek him, yet while he may be found / [by] Ambrose Rigge.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91828</idno>
+            <idno type="STC">Wing R1484</idno>
+            <idno type="STC">ESTC R42344</idno>
+            <idno type="EEBO-CITATION">36273048</idno>
+            <idno type="OCLC">ocm 36273048</idno>
+            <idno type="VID">150236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2237:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Lamentation in tender bowels of love over thee, Oh England that thou mayst return to the Lord in humility and seek him, yet while he may be found / [by] Ambrose Rigge.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Reigate in Surry the 11th of the 5th Month, 1696."</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Quaker authors.</term>
+               <term>Theology, Doctrinal --  Society of Friends.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:150236:1" rendition="simple:additions"/>
+            <head>A LAMENTATION
+In Tender Bowels of Love OVER THEE, OH ENGLAND: That thou mayſt return to the Lord in Humility,
+and Seek him, yet while he may be Found.</head>
+            <p>OH! <hi>England, England,</hi> How is my Heart Rent, and my Bowels Concern'd
+at the ſight of thy impending and approaching Miſery and Calamity!
+which, without unfeigned Repentance and hearty Contrition, (for all the
+Abominations which are daily committed within thy Borders, by the grea<g ref="char:EOLhyphen"/>teſt
+part of thy Inhabitants) will certainly work and effect thy utter Ruine
+and Deſtruction, and make thee a Reproach and By-word to them who
+are round about thee. <hi>Oh! That my Head were full of Waters, and mine Eyes a Foun<g ref="char:EOLhyphen"/>tain
+of Tears,</hi> that I might throughly Bemoan thy diſtreſſed State and Condition, as
+now it appears, and hath a good while appeared before me.</p>
+            <p>The Lord God of Heaven and Earth, in Infinite Loving kindneſs and tender Mercy Viſi<g ref="char:EOLhyphen"/>ted
+thee, the Earlieſt of the Nations of the Earth (in theſe laſt Days,) with the Glorious
+<hi>Beams and Rayes</hi> of the Riſing Sun of his Righteouſneſs, even when thou Sat'ſt in Dark<g ref="char:EOLhyphen"/>neſs,
+and under the Region and ſhaddow of Death: And I yet live as a Witneſs for him,
+that when thou laid'ſt polluted in thy own Blood, and was't not, Salted, nor Swadled at all;
+he had Compaſſion upon thee, above many Nations, and ſaid unto thee, Live; and offered
+his Word, to be to thee an Everlaſting Covenant, of Life, Light, and Glory, and Rai<g ref="char:EOLhyphen"/>ſed
+many Living Witneſſes to publiſh his will and mind, in order to gather thy Inhabitants,
+of all States and Conditions, under the wing of his Power, as a Hen gathereth her Chic<g ref="char:EOLhyphen"/>kens
+under her wings; and his good purpoſe was to Incompaſs you all within the Wall
+of his Salvation, and have made you one Sheep fold; under the Inſtruction and Govern<g ref="char:EOLhyphen"/>ment
+of one Shepherd, who would have led you every Day into Green Paſtures, by the
+Rivers of Living Water, and that you might thereby have been Nouriſhed up to Eternal
+Life, and have gone no more forth.</p>
+            <p>But Oh! How have the far greater part of you, Slighted, Neglected, and miſerably
+Undervallued, the Exceeding Riches of this Grace, offered you in a day acceptable; where<g ref="char:EOLhyphen"/>in
+you might have ſeen, and known, the things which belonged to your Temporal and
+Eternal Peace, Happineſs and Tranquillity, and might have been a Nation and People
+ſaved by the Lord; who would have made your Enemies as Aſhes under the Soles of your
+Feet.</p>
+            <p>He hath long waited to be thus Gracious unto you, and his poor deſpiſed Servants and
+Meſſengers, have not ceaſed to warn you early and late, to embrace his Mercy, and ſo
+avoid his Wrath and hot Diſpleaſure. But you have turned a deaf Ear, and hardned your
+Hearts, againſt all thoſe Reproofs of Inſtruction, which would have been to you a way of
+Life; Had they been Received, Imbraced and Entertained, in that Love and Mercy in which
+they were ſent, you had Certainly and Experimentally known, in this your day, the thing
+which belong to your Temporal and Eternal Peace, which now is very near to be hid from
+your Eyes; the God of Mercy give you Repentance of all your ungodly deeds, and hard
+ſpeeches, againſt his Name and Glory, My Bowels yorn towards you once more, that you
+may imbrace and kiſs the Son of the Fathers Love, (<hi>who is ſtanding at the Door of your
+Houſes (i. e.) your Hearts,</hi> and dayly inviting you to let him have enterance there) Leſt
+he be angry, and ye periſh from the way of Life and Peace; he will not always wait to be
+thus Gracious to you, <hi>nor his Spirit always thus Strive with you, but will Smite the
+hairy Scalp of every one who goes on in Iniquity;</hi> for <hi>Holineſs</hi> is the way to God's <hi>King<g ref="char:EOLhyphen"/>dom,</hi>
+without which none ſhall ever ſee him to their Eternal Comfort, this is the Word of
+the Lord, to you all, Great and Small; therefore caſt off all unholineſs and unrighteouſneſs
+whatſoever, and that ſpeedily, if ye intend to enter into the Kingdom of Glory, <hi>for it
+ſtands in Righteouſneſs and Holineſs,</hi> and no unrighteous or unholy Man or Woman
+ſhall ever enter therein.</p>
+            <p>Oh! Therefore, <hi>waſh ye, make ye clean,</hi> the Fountain is now open and free, without
+Money or Price, put far from you the evil of your doings, and that ſpeedily, for God is
+pure, and will have his People ſo; you muſt ceaſe to do Evil, before you can learn to do
+Well; it is not your Lip-ſervice, nor Bodily-exerciſe that will profit you any thing; if you
+had it every Day, that you are to Live; for God will not be ſerved with Sinners, <hi>neither
+doth he hear their Prayers,</hi> John. 9. 31. <hi>Yea their Sacrifices are an Abomination in his ſight;
+but if any Man, or People, be Worſhipers of him in Truth, and do his will; him and them
+he heareth and anſwereth; for he is a Spirit, and they who truely Worſhip him, muſt
+Worſhip him in Spirit and Truth,</hi> and the Songs of your outward Temples muſt be turned
+into Howling; if ever you come to ſee him whom you have pierced, by your ungodly
+Deeds; he hath Recorded your Sinns, as with a Pen of <hi>Iron,</hi> and the point of a <hi>Diamond,</hi>
+in the Book of your Conſciences, out of which both Quick and Dead muſt be Judged at
+the laſt Day.</p>
+            <p>Oh! <hi>England, England,</hi> let the time paſt, which thou haſt ſpent in the Luſt of the Eye,
+the Luſt of the Fleſh, and the pride of Life; be ſufficient, for the Days are now Evil, and
+the times Perrillous, and Eminently Dangerous, and Diſtreſs and Anguiſh is taking
+hold of People. and Nations, that if poſſible they may repent and amend their Lives,
+and turn unto the Lord our God that he may have Mercy upon them: This is my fervent
+deſire for thee, Oh! thou Land of my Nativity, that thou mayeſt eſcape the Stroak of
+his divine Vengeance, which will fall grievouſly upon the Head of the Wicked, and on
+every one who wilfully goes on in Iniquity.</p>
+            <p>Oh! The Pride, Drunkenneſs, Gluttony, Whoring, Lying, Swearing, Killing and
+Stealing, <hi>&amp;c.</hi> that abounds in this Land! And profaneneſs from it is gone out into other
+Nations and Iſlands a far off, ſo that the very Heathen have Blaſphemed the name of God
+through you, and have bleſſed their Idols, beyond the true and Living God, becauſe of
+the Evil and Corrupt Fruits which they have ſeen brought forth by you, who profeſs in
+Words to know and worſhip him, by whom all things were made and Created. The Lord of
+the Vineyard is now come to look for Fruits; <hi>and every Tree that bringeth not good
+Fruits of Righteouſneſs, and true Holineſs, he will hew down and caſt into the Fire. Eve<g ref="char:EOLhyphen"/>ry
+Plant which his Right Hand hath not Planted, he will pluck up and Caſt into the Furnace
+of Fire, where is weeping and gnaſhing of Teeth for ever.</hi> Let their profeſſion of him
+and his holy name and power be what it will; for true Chriſtianity (and all in it who are
+truely Baptized into Chriſt) ſtands in and by that Faith which purifies the Heart and In<g ref="char:EOLhyphen"/>ſide,
+of all his Living Members, and he is not a Chriſtian who only appears ſo in name and
+ſhew, neither is that Baptiſm which only waſhes the outſide; but he is a Chriſtian, who
+is one Inward; and the true and ſaving Baptiſm, is that which ſprinkles the Heart and
+waſhes the Conſcience, from all uncleanneſs. This is of and by the Spirit of Truth, ſuch
+are true Chriſtians indeed, whoſe praiſe is not of Men but of God.</p>
+            <p>Oh! <hi>England,</hi> Conſider how far are the greateſt part of thy Inhabitants from this Bap<g ref="char:EOLhyphen"/>tiſm;
+the Lord in Mercy, open your Eyes, and give you a ſight and ſence of it, that if
+poſſible in this your Day, you may know the thing that belongs to your Peace and Pro<g ref="char:EOLhyphen"/>ſperity,
+for the time will come in which it will be hid from your Eyes, if you do not repent
+and turn to the Lord with all your Hearts, that he may have mercy upon you, and ſave you
+out of the Hand of your Enemies.</p>
+            <p>The Lord hath long waited to be Gracious and Merciful to you and would not that you
+ſhould Dye in your Sins, nor Periſh in your Iniquities; but you have deſpiſed his Mercy,
+and ſet at nought all his Reproofs: Nouriſhing your Corrupt Luſts, as in a day of ſlaugh<g ref="char:EOLhyphen"/>ter,
+and making merry over his juſt and living Witneſs in your Hearts, which would
+bring you to brokeneſs of Heart and Contrition of Mind, and would have wrought
+that Repentance in you, which you needed not to have Repented of, which is, from dead
+works, to Serve and Fear the Living God.</p>
+            <p>The Cauſe of the preſent miſery and diſtreſs that the Land lies under, is the unrighte<g ref="char:EOLhyphen"/>ouſneſs
+thereof, of almoſt all ſorts and kinds: What Abomination was in <hi>Sodom,</hi> that is
+not committed in this Land? Oh! how is the Righteous Seed which God hath Sown in
+your Hearts oppreſſed every Day with your ungodly Deeds! The cry thereof hath entred
+the Ear of the Almighty; If he what his Glittering Sword, and his Hand take hold on Judg<g ref="char:EOLhyphen"/>ment,
+He will execute Vegeance upon his Enemies, and Fury upon his Adverſaries.</p>
+            <p>There is a Remnant whom the Lord hath Called out from amongſt you, and a few of
+that Remnant whom he hath choſen to place his name in, who are Faithful to him, and
+have kept the Word of his Patience and he hath kept them in the hour of Temptation
+through many Trials and Exerciſes in which the Angel of his Divine Power and Preſence
+hath upheld them, that they Fainted not, till it pleaſed God to open the Hearts of the Govern<g ref="char:EOLhyphen"/>ment,
+to give them ſome Eaſe, for which they are thankful; yet have they not wholly ſet free
+the oppreſſed, but have left the Prieſts heavy Yoak of Tithes upon our Necles ſtill, and
+other Burthens, the Lord open their Eyes to ſee it, that all the Branches (with the Body
+and Root) of the See of <hi>Rome,</hi> may be cut off in <hi>England,</hi> then ſhall ſhe enjoy Peace and
+Plenty, and Proſperity ſhall poſſeſs her Pallaces; my Soul hungers after her good, more then
+my daily Food.</p>
+            <p>We are not Concern'd in any Controverſie or War with Fleſh and Blood; firmly
+believing the true Goſpel Miniſtration ends all Deſtruction of Mankind, by Sword or Spear,
+according to the Teſtimony of that Evangellical Prophet <hi>Iſaiah. 2. 1, 2, 3, 4, 5. Micah.</hi> 4.
+1, 2, 3, 4, 5. <hi>So that Nation ſhall not Lift up a Sword againſt Nation, neither ſhall they Learn War
+any more, but every one ſhall ſit under his own Vine, and none ſhall make them afraid.</hi>
+            </p>
+            <p>This is one great <hi>Mark</hi> of the Reſtoration of the <hi>Kingdom</hi> of <hi>Chriſt;</hi> and his Rule and
+Government in the Hearts and Conſciences of his People, that the <hi>Weapons of their War<g ref="char:EOLhyphen"/>fare
+are not Carnal, but Spiritual,</hi> and only bent againſt Wickedneſs, <hi>&amp;c.</hi> This, a Remnant
+in our Day, the Lord hath made Witneſſes of, who deſire nothing more of any VVorldly
+Government; than to Live a <hi>peaceable and quiet Life under them in all Godlineſs and Ho<g ref="char:EOLhyphen"/>neſty:
+And have often made Interceſſion to the Lord for them, according to the Exhortation of
+the Great Apoſtle</hi> Paul, 1 <hi>Tim.</hi> 2. 1, 2, 3.</p>
+            <p>And now, Oh <hi>England,</hi> the way to be preſerved from all thoſe Calamities, which now
+Extreamly threaten thy Inhabitants, is to Return unto the Lord, with all thy Heart by un<g ref="char:EOLhyphen"/>feigned
+Repentance, which is no leſs then the Caſting off every unfruitful VVork of Dark<g ref="char:EOLhyphen"/>neſs,
+and ceaſing from every Evil Word, Thought, and Deſire, then may'ſt thou acceptably
+ſerve the Lord, and have an anſwer of Peace from him.</p>
+            <p>And if thy ways thus pleaſe the Lord, he will make all thy Enemies at Peace with thee,
+for it is Righteouſneſs that Exalteth a Nation over the Heads of all its Adverſaries, and
+bringeth laſting and ſure Peace within its Borders: Therefore <hi>let the unrighteous forſake
+his way, and the ungodly his thoughts. Waſh ye, make ye Clean, put away the Evil of your
+doings, from before the Eye of the Almighty, ſeek Judgment, Relieve the Oppreſſed,</hi> and
+anſwer the Lords Requirings in theſe things, then will he anſwer you in time of Diſtreſs,
+and make your Enemies as Aſhes under your Feet; for he will manifeſt his own Righte<g ref="char:EOLhyphen"/>ouſneſs
+in the Nations, in Judgment and Mercy, <hi>for the Earth is now filled with Violence,
+and all Fleſh hath Corupted its way before the Lord,</hi> and the Earth begun to loſe his ac<g ref="char:EOLhyphen"/>cuſtomed
+Seaſons, and the Air its wonted Seaſonableneſs, and the Diſpleaſure of the Lord
+(to all whoſe Eyes are open) ſeems apparently to manifeſt it ſelf, ſo that Fear and Amaze<g ref="char:EOLhyphen"/>ment
+takes hold upon many, whoſe Hands now are upon their Loins, as a Woman in Tra<g ref="char:EOLhyphen"/>vail,
+becauſe of the Judgments of the great God of Heaven, which now are in the Earth.</p>
+            <p>Oh! God of Righteouſneſs, open the Eyes of this Sinful Nation, to ſee the Spiritu<g ref="char:EOLhyphen"/>al
+appearance and coming of thy dear Son, that they periſh not, from the way of Life and
+Peace; Incline their Hearts to Receive him whom thou art Manifeſting in Morta Fleſh
+to Reprove and Condenm Sin in the Fleſh, that thy Righteouſneſs may be Revealed in
+them from Faith to Faith, and thy Salvation brought about them as a Wall and Bulwark;
+aud their Enemies Scattered as Stubble before the Wind. <hi>Amen.</hi>
+            </p>
+            <p>But if you ſtill harden your Hearts and ſtiffen your Necks againſt the Reproofs of that
+Heavenly Inſtruct or <hi>whom the Lord hath ſent to your Doors,</hi> and go on in Rebellion a<g ref="char:EOLhyphen"/>gainſt
+him, and the many warnings which he hath long given you by the Mouths of many
+Witneſſes; who have not loved their Lives for your good, the Lord will ſet his Face againſt
+you <hi>for Evil and not for Good,</hi> and you ſhall wither as untimely Figgs, or Graſs that grows
+upon a Houſe top, and your Glory he will Stain, and bring you into Contempt. I could
+not be clear, but in the Love of God, and Bowels of his Son, to write this unto you.</p>
+            <closer>
+               <dateline>Reigate in Surry <date>the 11th
+of the 5th Month, 1696.</date>
+               </dateline>
+               <signed>Who am your aſſured Friend,
+<hi>Ambroſe Rigge.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed and Sold by</hi> T. Sowle, <hi>near the</hi> Meeting-Houſe <hi>in</hi> White Hart-Court <hi>in</hi> Gracious-Street. 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
